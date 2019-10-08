@@ -6,7 +6,8 @@ def create_an_array
   [1,2,3,4]
 end
 
-def add_element_to_end_of_array = ["wow", "I", "am", "really", "learning"]
+def add_element_to_end_of_array(array, element)
+  ["wow", "I", "am", "really", "learning"]
   add_element_to_end_of_array.last "arrays!"
 end
 
